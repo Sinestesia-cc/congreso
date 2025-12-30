@@ -1,0 +1,1343 @@
+year,continent,discipline,generation,profession
+2016,Asia,Humanidad,Baby boomers,Biología
+2023,América,Tecnología,Millenials,Zoología
+2016,América,Humanidad,Millenials,Antropología
+2023,América,Tecnología,Millenial,Activismo (humanidades)
+2025,América,Humanidad,Gen X,Neurociencia
+2016,América,Sociedad,Millenials,Filosofía
+2025,América,Tecnología,Baby boomers,Neurociencia
+2019,América,Tecnología,Millenial,Astronomía
+2016,Chile,S/I,Gen X,Política
+2015,Chile,Tecnología,Baby boomers,Neurociencia
+2018,Chile,S/I,Gen X,Biotecnología
+2023,América,Naturaleza,Millenials,Astronomía
+2020,Chile,Humanidad,Baby boomers,Antropología
+2021,América,Tecnología,Baby boomers,Geología
+2019,América,Tecnología,Gen X,Neurociencia
+2020,Chile,Naturaleza,Baby boomers,Periodismo
+2021,Europa,S/I,Gen X,Filosofía
+2025,Chile,Tecnología,Millenials,Transporte
+2018,Africa,Energía,Gen silenciosa,Microbiología
+2015,Chile,Humanidad,Gen X,Economía
+2018,América,Tecnología,Baby boomers,Bioquímica
+2021,Europa,Tecnología,Gen X,Empresario(a)
+2015,Chile,S/I,Baby boomers,Política
+2018,Chile,Tecnología,Gen X,Empresario(a)
+2016,Chile,S/I,Gen X,Empresario(a)
+2022,Chile,Salud,Gen X,Epidemiología
+2019,Chile,S/I,Gen X,Arquitectura
+2015,América,Tecnología,Baby boomers,Astronomía
+2017,América,S/I,Gen X,Política
+2026,Chile,Tecnología,Gen X,Matemáticas
+2016,Chile,Tecnología,Gen X,Matemáticas
+2025,América,Tecnología,Millenials,Empresario(a)
+2016,Chile,S/I,Millenials,Biotecnología
+2013,Chile,Naturaleza,Baby boomers,Química
+2024,Chile,Tecnología,Millenials,Arquitectura
+2021,América,Tecnología,Gen X,Ciencia de datos
+2023,Chile,Salud,Millenials,Psicología
+2024,Chile,Tecnología,Millenials,Biotecnología
+2018,Chile,Naturaleza,Gen X,Derecho
+2017,Europa,Tecnología,Baby boomers,Astrofísica
+2017,Chile,Salud,Gen X,Microbiología
+2025,Chile,Tecnología,Millenials,Inteligencia Artificial
+2015,Chile,Naturaleza,Gen X,Política
+2020,América,Tecnología,Gen X,Tecnologías de la Información
+2016,Chile,S/I,Baby boomers,Divulgación Científica
+2016,Chile,Tecnología,Baby boomers,Divulgación Científica
+2019,Europa,Naturaleza,Baby boomers,Gobernanza
+2024,Europa,Tecnología,Baby boomers,Urbanismo
+2017,América,Salud,Baby boomers,Oncología
+2013,Chile,Tecnología,Baby boomers,Sociología
+2021,Chile,S/I,Baby boomers,Gobernanza
+2023,Chile,Tecnología,Baby boomers,Diseño
+2025,Chile,Tecnología,Gen X,Oncología
+2022,América,Tecnología,Baby boomers,Matemáticas
+2025,América,Sociedad,Millenial,Activismo (humanidades)
+2026,Europa,S/I,Gen X,Ciencias ambientales
+2021,Africa,Humanidad,Gen silenciosa,Ecología
+2022,Asia,S/I,Gen X,Política
+2017,Asia,Tecnología,Gen X,Neurociencia
+2021,América,Naturaleza,Gen Z,Astronomía
+2018,América,Tecnología,Baby boomers,Astrofísica
+2024,Europa,Tecnología,Gen X,Activismo (humanidades)
+2018,Chile,Tecnología,Baby boomers,Neurociencia
+2019,América,Tecnología,Millenials,Antropología
+2019,Chile,Salud,Gen X,Bioestadística
+2022,Europa,Sociedad,Gen X,Filosofía
+2023,Chile,Energía,Gen X,Energías renovables
+2022,América,Naturaleza,Gen X,Relaciones internacionales
+2021,Chile,Futuro,Gen X,Educación
+2023,Europa,Salud,Millenials,Microbiología
+2026,Chile,S/I,Baby boomers,Arquitectura
+2023,Chile,Tecnología,Gen Z,Activismo (ciencia)
+2026,Europa,S/I,Gen X,Activismo (ciencia)
+2026,América,S/I,Gen X,Divulgación Científica
+2021,Europa,Humanidad,Gen X,Música
+2026,Europa,S/I,Millenials,Filosofía
+2026,Europa,S/I,Millenials,Filosofía
+2017,Chile,Sociedad,Gen X,Neurociencia
+2023,Chile,Tecnología,Millenials,Matemáticas
+2017,Europa,Futuro,Baby boomers,Relaciones internacionales
+2017,Chile,Tecnología,Gen X,Neurociencia
+2013,Chile,Tecnología,Gen X,Divulgación Científica
+2024,Chile,Tecnología,Gen X,Innovación
+2026,Chile,S/I,Gen X,Economía
+2017,América,S/I,Baby boomers,Relaciones internacionales
+2018,Chile,S/I,Gen silenciosa,Política
+2025,Europa,Tecnología,Baby boomers,Periodismo
+2021,Europa,Tecnología,Baby boomers,Periodismo
+2025,Chile,Salud,Millenials,Nutrición
+2022,Europa,Humanidad,Baby boomers,Activismo (humanidades)
+2019,Europa,Tecnología,Gen X,Neurociencia
+2022,Europa,Tecnología,Gen X,Neurociencia
+2024,Asia,Tecnología,Millenials,Inteligencia Artificial
+2018,América,Tecnología,Gen Z,Innovación
+2019,América,Tecnología,Baby boomers,Derecho
+2023,Europa,Sociedad,Gen X,Educación
+2019,América,Naturaleza,Baby boomers,Economía
+2021,Europa,Salud,Millenials,Gobernanza
+2018,Europa,Futuro,Gen X,Diseño
+2024,Europa,Salud,Gen X,Ciencias de la computación
+2022,América,Salud,Gen silenciosa,Inmunología
+2020,Europa,Sociedad,Baby boomers,Filosofía
+2023,Europa,Tecnología,Gen X,Sociología
+2021,América,Tecnología,Baby boomers,Biología
+2024,América,Tecnología,Baby boomers,Biología
+2017,Europa,Energía,Gen X,Física
+2018,Chile,Tecnología,Millenial,Diseño de videojuegos
+2026,América,S/I,Gen X,Biología molecular
+2016,Chile,Naturaleza,Millenials,Ecología
+2024,Europa,Tecnología,Millenials,Química física
+2026,América,S/I,Baby boomers,Medicina
+2017,Asia,Tecnología,Gen X,Ingeniería informática
+2024,Europa,Humanidad,Gen X,Física
+2019,América,Mente,Baby boomers,Neurociencia
+2023,Chile,S/I,Millenials,Sociología
+2018,América,Humanidad,Baby boomers,Activismo (humanidades)
+2025,Europa,Naturaleza,Gen X,Ciencias de los materiales
+2022,Europa,S/I,Gen X,Política
+2020,Chile,Tecnología,Gen X,Biología
+2011,América,Salud,Gen silenciosa,Matemáticas
+2013,Europa,S/I,Baby boomers,Derecho
+2020,Chile,Tecnología,Gen X,Psicología
+2019,Chile,Comunicación,Gen X,Ciencia de datos
+2020,Chile,Naturaleza,Gen X,Biología
+2023,Europa,Humanidad,Gen X,Filosofía
+2019,Chile,Tecnología,Millenials,Ingeniería informática
+2024,Chile,Tecnología,Millenials,Ingeniería informática
+2025,Europa,Tecnología,Baby boomers,Activismo (ciencia)
+2021,Europa,Tecnología,Baby boomers,Activismo (ciencia)
+2026,Europa,S/I,Baby boomers,Política
+2015,América,Sociedad,Baby boomers,Ciencia Política
+2017,Europa,Tecnología,Gen X,Agricultura
+2017,Europa,Mente,Gen X,Neurociencia
+2021,América,Futuro,Baby boomers,Bioquímica
+2013,América,Naturaleza,Gen X,Biología marina
+2019,Europa,Naturaleza,Gen X,Orador
+2018,Europa,Naturaleza,Baby boomers,Geología
+2020,Chile,Sociedad,Baby boomers,Psicología
+2018,América,Tecnología,Gen X,Gobernanza
+2016,Europa,Naturaleza,Gen X,Activismo (ciencia)
+2020,Oceanía,Salud,Baby boomers,Nutrición
+2018,América,Tecnología,Gen X,Ingeniería software
+2018,América,Mente,Baby boomers,Zoología
+2019,América,Sociedad,Baby boomers,Psicología
+2021,América,Tecnología,Gen X,Ecología
+2013,América,Energía,Gen X,Astrofísica
+2019,América,Energía,Gen X,Astrofísica
+2019,América,Naturaleza,Baby boomers,Biología
+2017,América,Tecnología,Millenial,Oncología
+2024,América,Tecnología,Baby boomers,Ciencia Política
+2022,América,Tecnología,Baby boomers,Tecnologías de la información
+2017,Europa,Naturaleza,Baby boomers,Paleontología
+2023,Europa,Naturaleza,Baby boomers,Paleontología
+2022,América,Tecnología,Gen X,Innovación
+2023,Chile,Sociedad,Gen X,Oncología
+2025,Europa,Humanidad,Gen X,Periodismo
+2022,Europa,Humanidad,Gen X,Periodismo
+2024,Europa,Humanidad,Gen X,Periodismo
+2018,América,Sociedad,Gen X,Ingeniería informática
+2017,Asia,Salud,Gen X,Agronomía
+2018,América,Naturaleza,Baby boomers,Biología marina
+2015,América,Tecnología,Gen X,Ingeniería eléctrica
+2017,Chile,S/I,Gen X,Nutrición
+2013,Chile,S/I,Baby boomers,Política
+2021,Europa,Tecnología,Millenials,Economía
+2024,Europa,Tecnología,Millenials,Economía
+2025,Chile,Tecnología,Millenials,Física Cuántica
+2025,Chile,Cultura,Millenials,Artes visuales
+2024,Europa,Humanidad,Gen X,Inteligencia Artificial
+2018,Europa,Naturaleza,Baby boomers,Sociología
+2011,Europa,Energía,Gen silenciosa,Física
+2013,Chile,Sociedad,Baby boomers,Política
+2026,Chile,S/I,Gen X,Ecología
+2016,América,Salud,Baby boomers,Salud Pública
+2018,América,Salud,Gen X,Salud Pública
+2017,Chile,Tecnología,Gen X,Economía
+2018,Chile,Tecnología,Gen X,Empresario(a)
+2023,Europa,Tecnología,Gen X,Empresario(a)
+2019,Europa,Energía,Gen X,Astrofísica
+2021,Chile,Sociedad,Gen X,Ingeniería informática
+2025,Chile,Naturaleza,Gen X,Ecología
+2026,Chile,S/I,Gen X,Activismo (humanidades)
+2015,Chile,Salud,Gen X,Política
+2024,Chile,Tecnología,Gen X,Geografía
+2019,Chile,Naturaleza,Gen X,Política
+2015,Chile,S/I,Gen X,Política
+2018,Chile,S/I,Gen X,Biología molecular
+2018,Europa,Tecnología,Baby boomers,Ciencia de los alimentos
+2019,América,Naturaleza,Gen X,Ciencias ambientales
+2025,América,Naturaleza,Gen X,Ciencias ambientales
+2025,Chile,Cultura,Gen X,Gobernanza
+2021,Chile,Naturaleza,Gen Z,Activismo (ciencia)
+2018,Europa,Tecnología,Millenials,Ciencias de los materiales
+2019,Europa,Tecnología,Gen silenciosa,Astrofísica
+2011,Europa,Tecnología,Gen silenciosa,Astrofísica
+2023,Europa,Tecnología,Baby boomers,Filosofía
+2020,Europa,Sociedad,Millenials,Sostenibilidad
+2023,Europa,Naturaleza,Gen X,Cambio climático
+2024,Europa,Tecnología,Millenials,Inteligencia Artificial
+2013,Chile,Futuro,Gen silenciosa,Bioquímica
+2018,Chile,Tecnología,Baby boomers,Sociología
+2021,Chile,Tecnología,Gen X,Ecología
+2024,Europa,Salud,Baby boomers,Sociología
+2011,Chile,Tecnología,Gen X,Física
+2016,Chile,Tecnología,Gen X,Física
+2026,Europa,S/I,Millenials,Inteligencia Artificial
+2023,Chile,Naturaleza,Gen X,Ingeniería ambiental
+2017,Chile,S/I,Baby boomers,Ciencia Política
+2024,Africa,Naturaleza,Gen X,Política
+2017,América,Tecnología,Gen silenciosa,Física
+2017,América,Tecnología,Gen silenciosa,Física
+2022,Europa,Humanidad,Gen X,Astronomía
+2017,América,Naturaleza,Baby boomers,Educación
+2015,Chile,Tecnología,Baby boomers,Neurociencia
+2014,Chile,Tecnología,Baby boomers,Neurociencia
+2025,América,Energía,Millenial,Ingeniería nuclear
+2021,Asia,Tecnología,Gen X,Neurociencia
+2020,Africa,Tecnología,Gen X,Literatura
+2020,Europa,Tecnología,Millenial,Política
+2018,América,Naturaleza,Baby boomers,Activismo (arte)
+2016,Europa,Energía,Baby boomers,Astronomía
+2024,Europa,Humanidad,Gen X,Gobernanza
+2023,Chile,Salud,Gen X,Biología celular
+2026,Chile,Salud,Gen X,Bioquímica
+2020,Chile,Salud,Gen X,Bioquímica
+2024,Chile,Salud,Gen X,Bioquímica
+2015,Europa,Tecnología,Baby boomers,Física cuántica
+2025,Chile,Tecnología,Millenials,Ingeniería ambiental
+2023,Europa,Tecnología,Gen X,Gobernanza
+2023,Europa,Tecnología,Gen X,Inteligencia Artificial
+2024,Europa,S/I,Gen X,Física
+2023,Europa,S/I,Gen X,Historia
+2023,Europa,Humanidad,Gen X,Historia
+2026,América,S/I,Baby boomers,Salud Pública
+2023,América,S/I,Gen X,Economía
+2022,Chile,Tecnología,Gen X,Astronomía
+2013,Europa,S/I,Gen silenciosa,Política
+2013,Europa,Salud,Baby boomers,Antropología
+2026,Chile,S/I,Millenials,Ciencia de los alimentos
+2024,Chile,Humanidad,Gen X,Ciencias de la información
+2018,Chile,Sociedad,Gen X,Educación
+2018,Chile,Naturaleza,Gen X,Ciencias ambientales
+2025,Chile,Tecnología,Gen X,Innovación
+2025,Chile,Tecnología,Gen X,Biología molecular
+2026,Chile,S/I,Gen X,Matemáticas
+2025,Europa,Sociedad,Baby boomers,Sociología
+2024,Chile,Naturaleza,Gen X,Veterinaria
+2025,Chile,Tecnología,Gen X,Sociología
+2015,Chile,Tecnología,Gen X,Antropología
+2014,Chile,Tecnología,Gen X,Antropología
+2026,América,Tecnología,Baby boomers,Derecho
+2018,Chile,Salud,Gen X,Biotecnología
+2014,Chile,Naturaleza,Gen X,Ecología
+2017,Chile,Tecnología,Gen silenciosa,Psiquiatría
+2018,Chile,Tecnología,Gen silenciosa,Psiquiatría
+2018,Chile,Tecnología,Gen silenciosa,Psiquiatría
+2018,Europa,Humanidad,Gen X,Matemáticas
+2019,Europa,Naturaleza,Baby boomers,Geología
+2019,Europa,Futuro,Baby boomers,Ciencias biomédicas
+2020,Europa,Naturaleza,Gen X,Biología
+2016,Europa,Humanidad,Baby boomers,Política
+2019,Chile,Tecnología,Gen X,Psicología
+2020,Chile,Tecnología,Gen X,Psicología
+2019,Europa,Salud,Gen X,Nutrición
+2014,América,S/I,Baby boomers,Neurociencia
+2023,Europa,Tecnología,Gen X,Ciencia Política
+2015,América,Tecnología,Baby boomers,Sociología
+2017,Chile,Sociedad,Baby boomers,Física
+2013,Chile,Humanidad,Baby boomers,Política
+2014,Chile,S/I,Baby boomers,Política
+2020,Chile,Naturaleza,Baby boomers,Sociología
+2021,Chile,Tecnología,Baby boomers,Economía
+2018,Chile,Tecnología,Gen X,Microbiología
+2021,Europa,Naturaleza,Baby boomers,Economía
+2024,Europa,Naturaleza,Millenials,Oceanografía
+2020,Chile,Tecnología,Gen X,Educación
+2023,Chile,Naturaleza,Gen X,Ciencias ambientales
+2013,América,Sociedad,Baby boomers,Política
+2016,América,Sociedad,Baby boomers,Política
+2026,Chile,S/I,Gen X,Ciencia de datos
+2026,América,S/I,Gen X,Psicología
+2016,Asia,Tecnología,Baby boomers,Empresario(a)
+2024,América,Tecnología,Baby boomers,Bioética
+2021,Europa,Naturaleza,Gen X,Artes visuales
+2024,América,Naturaleza,Baby boomers,Filosofía
+2017,América,Naturaleza,Baby boomers,Filosofía
+2024,Europa,Naturaleza,Baby boomers,Inteligencia Artificial
+2019,Europa,Naturaleza,Baby boomers,Paleontología
+2025,América,Tecnología,Millenials,Sostenibilidad
+2022,Europa,Naturaleza,Gen X,Biología
+2024,Chile,Tecnología,Baby boomers,Inteligencia Artificial
+2019,Chile,Tecnología,Gen X,Ciencias de la comunicación
+2019,Chile,Tecnología,Gen X,Biotecnología
+2024,Europa,Tecnología,Baby boomers,Filosofía
+2022,Europa,Tecnología,Baby boomers,Filosofía
+2021,América,Salud,Gen X,Innovación
+2018,América,Energía,Baby boomers,Química
+2026,Chile,S/I,Baby boomers,Empresario(a)
+2022,Europa,Naturaleza,Baby boomers,Biología marina
+2011,Chile,S/I,Baby boomers,Empresario(a)
+2025,Chile,Tecnología,Gen X,Matemáticas
+2017,Asia,Naturaleza,Baby boomers,Geología
+2026,América,S/I,Baby boomers,Genética
+2026,América,S/I,Millenials,Biología marina
+2018,Chile,Naturaleza,Millenials,Biología marina
+2026,Chile,S/I,Millenial,Bioquímica
+2025,Chile,Tecnología,Millenials,Física
+2019,América,Tecnología,Millenials,Ingeniería espacial
+2014,América,Tecnología,Baby boomers,Astronomía
+2013,América,Tecnología,Baby boomers,Astronomía
+2021,Chile,S/I,Baby boomers,Psicología
+2021,Europa; Asia,Tecnología,Gen X,Economía
+2021,América,Tecnología,Baby boomers,Ciencia Política
+2022,América,Tecnología,Gen X,Economía
+2015,Asia,Energía,Baby boomers,Química
+2020,América,Tecnología,Gen X,Diseño
+2015,Europa,Tecnología,Gen X,Derecho
+2017,América,Salud,Gen X,Biología molecular
+2024,Chile,Tecnología,Millenial,Inteligencia Artificial
+2021,América,Salud,Baby boomers,Divulgación científica
+2018,América,Tecnología,Baby boomers,Periodismo
+2016,Chile,S/I,Gen X,Paleontología
+2022,América,Naturaleza,Baby boomers,Ciencias ambientales
+2015,América,Tecnología,Baby boomers,Física
+2026,América,S/I,Millenial,Educación
+2025,Europa,Humanidad,Gen silenciosa,Biología
+2018,América,Mente,Baby boomers,Bioquímica
+2024,Chile,Tecnología,Millenials,Música
+2016,América,Humanidad,Baby boomers,Sociología
+2019,Chile,Naturaleza,Baby boomers,Literatura
+2020,Chile,Tecnología,Millenials,Filosofía
+2017,América,Humanidad,Millenials,Psicología
+2018,América,Tecnología,Baby boomers,Filosofía
+2018,América,Tecnología,Baby boomers,Filosofía
+2021,Europa,Futuro,Gen X,Astronomía
+2021,América,Salud,Gen X,Historia
+2019,América,Mente,Baby boomers,Biología
+2016,Europa,S/I,Gen X,Geología
+2024,Chile,Tecnología,Gen X,Ingeniería eléctrica
+2026,América,S/I,Millenials,Ingeniería nuclear
+2022,Europa,Futuro,Millenials,Ingeniería software
+2023,América,Salud,Millenials,Neurociencia
+2026,Europa,S/I,Baby boomers,Filosofía
+2026,Europa,S/I,Baby boomers,Filosofía
+2013,América,Naturaleza,Baby boomers,Geología
+2020,América,S/I,Baby boomers,Física
+2016,Chile,S/I,Baby boomers,Física
+2020,América,Naturaleza,Gen silenciosa,Sociología
+2021,América,Humanidad,Baby boomers,Educación
+2021,Chile,Humanidad,Baby boomers,Biología
+2018,Africa,Cultura,Gen silenciosa,Derecho
+2017,América,Tecnología,Baby boomers,Teatro
+2019,América,Cultura,Baby boomers,Sociología
+2023,Chile,Salud,Gen silenciosa,Agronomía
+2020,América,Humanidad,Baby boomers,Ciencias ambientales
+2016,Chile,Tecnología,Gen X,Astrofísica
+2021,Chile,Tecnología,Gen X,Astrofísica
+2023,Chile,Tecnología,Gen X,Astrofísica
+2022,Chile,Tecnología,Gen X,Astrofísica
+2026,América,S/I,Gen X,Derecho
+2024,Chile,Futuro,Baby boomers,Economía
+2015,Chile,Sociedad,Baby boomers,Economía
+2014,Chile,S/I,Baby boomers,Economía
+2016,Chile,Futuro,Baby boomers,Economía
+2017,Chile,Salud,Gen X,Bioquímica
+2015,Chile,Tecnología,Gen silenciosa,Política
+2016,Chile,Naturaleza,Gen Z,Estudiante
+2020,Europa,Tecnología,Gen X,Matemáticas
+2021,Chile,Tecnología,Gen X,Astronomía
+2024,América,Naturaleza,Gen X,Sostenibilidad
+2023,Europa,Tecnología,Baby boomers,Administración de empresas
+2016,Europa,Tecnología,Baby boomers,Periodismo
+2023,América,Tecnología,Millenials,Medicina
+2022,Europa,Tecnología,Gen X,Psicología
+2026,Europa,S/I,Gen X,Genética
+2026,América,S/I,Baby boomers,Economía
+2022,Europa,Tecnología,Gen X,Química
+2021,América,Tecnología,Gen X,Activismo (ciencia)
+2020,América,Naturaleza,Gen X,Periodismo
+2022,Chile,Sociedad,Baby boomers,Política
+2025,Chile,Tecnología,Millenials,Astronomía
+2025,América,Mente,Gen X,Neurociencia
+2019,Chile,Cultura,Gen X,Arquitectura
+2021,Europa,Tecnología,Gen X,Química
+2025,Europa,Tecnología,Millenials,Gobernanza
+2026,Chile,S/I,Gen X,Epidemiología
+2013,Asia,Tecnología,Baby boomers,Física
+2017,Chile,Tecnología,Baby boomers,Educación
+2016,Chile,Tecnología,Baby boomers,Educación
+2015,Chile,Tecnología,Baby boomers,Educación
+2022,Europa,Naturaleza,Gen X,Ecología
+2021,Chile,Tecnología,Millenials,Periodismo
+2013,Chile,Tecnología,Gen silenciosa,Física
+2017,Chile,Energía,Gen X,Energías renovables
+2023,Europa,Tecnología,Gen X,Microbiología
+2019,Europa,Tecnología,Gen X,Microbiología
+2018,América,Tecnología,Baby boomers,Física
+2020,Europa,Sociedad,Gen X,Filosofía
+2022,Europa,Sociedad,Gen X,Filosofía
+2025,América,Naturaleza,Gen X,Ecología
+2018,Chile,S/I,Gen X,Gobernanza
+2018,Chile,S/I,Gen X,Gobernanza
+2017,América,Tecnología,Baby boomers,Química
+2016,América,Tecnología,Baby boomers,Química
+2021,Chile,Humanidad,Baby boomers,Energías renovables
+2025,Europa,Tecnología,Millenial,Cine
+2025,Chile,Sociedad,Gen X,Sociología
+2022,Europa,Salud,Gen X,Economía
+2017,América,Energía,Gen X,Energías renovables
+2023,Europa,Mente,Baby boomers,Sociología
+2025,Chile,Tecnología,Gen X,Neurociencia
+2022,Chile,Naturaleza,Millenials,Derecho
+2025,Europa,Futuro,Baby boomers,Futurismo
+2024,Chile,Naturaleza,Gen X,Biología marina
+2018,Africa,Tecnología,Gen silenciosa,Física
+2016,Europa,Tecnología,Gen silenciosa,Física
+2019,Asia,Tecnología,Baby boomers,Ingeniería computación
+2025,Asia,Tecnología,Millenials,Física
+2022,Chile,Humanidad,Gen X,Geología
+2021,Chile,S/I,Gen X,Física
+2025,Chile,Naturaleza,Gen X,Ecología
+2026,Chile,S/I,Gen X,Neurociencia
+2023,Chile,Salud,Gen X,Psicología
+2017,Chile,S/I,Baby boomers,Bioquímica
+2021,Chile,Futuro,Millenials,Ingeniería química
+2024,Chile,Tecnología,Millenials,Ingeniería eléctrica
+2023,Europa,Salud,Gen X,Ciencia de los alimentos
+2020,Chile,Tecnología,Gen X,Biología
+2024,América,Tecnología,Gen X,Gobernanza
+2017,Chile,Tecnología,Gen X,Ciencias biomédicas
+2018,Chile,Futuro,Gen Z,Estudiante
+2013,Chile,Tecnología,Baby boomers,Física
+2017,Chile,Tecnología,Baby boomers,Física
+2015,Chile,Tecnología,Baby boomers,Física
+2021,Chile,Salud,Gen X,Epidemiología
+2017,Chile,Salud,Baby boomers,Medicina
+2020,Chile,S/I,Millenials,Historia
+2022,Chile,S/I,Baby boomers,Periodismo
+2018,Chile,S/I,Gen X,Política
+2023,América,Tecnología,Gen X,Ciencias sociales
+2024,Europa,Naturaleza,Millenials,Geografía
+2024,Chile,Tecnología,Millenials,Neurociencia
+2019,Chile,Salud,Millenials,Genética
+2019,América,Tecnología,Gen X,Química
+2020,América,Energía,Baby boomers,Química
+2021,Europa,Salud,Baby boomers,Zoología
+2024,Europa,Naturaleza,Gen X,Ingeniería ambiental
+2026,Europa,S/I,Baby boomers,Empresario(a)
+2015,Europa,Energía,Baby boomers,Empresario(a)
+2023,Chile,Naturaleza,Millenial,Biotecnología
+2024,Chile,Energía,Millenials,Física
+2021,Chile,Salud,Gen X,Derecho
+2020,Chile,Sociedad,Gen X,Antropología
+2022,Chile,Naturaleza,Baby boomers,Ecología
+2015,Chile,S/I,Baby boomers,Física
+2013,Chile,Salud,Gen X,Política
+2014,Chile,Salud,Gen X,Política
+2017,Chile,Salud,Gen X,Política
+2015,Chile,Salud,Gen X,Política
+2022,Chile,S/I,Gen X,Filosofía
+2025,Chile,Tecnología,Millenials,Astrofísica
+2014,Chile,Mente,Gen silenciosa,Geología
+2023,Europa,Naturaleza,Gen X,Filosofía
+2018,Chile,S/I,Baby boomers,Empresario(a)
+2017,Chile,Energía,Gen X,Economía
+2025,Europa,Futuro,Gen X,Sostenibilidad
+2024,Chile,Tecnología,Gen X,Arquitectura
+2017,América,S/I,Baby boomers,Gobernanza
+2016,Europa,Tecnología,Baby boomers,Biología
+2022,Europa,Tecnología,Gen silenciosa,Física
+2018,Europa,Tecnología,Gen silenciosa,Física
+2020,Chile,S/I,Gen silenciosa,Historia
+2020,Europa,Tecnología,Gen X,Robótica
+2018,Chile,Salud,Gen X,Genética
+2025,América,Tecnología,Millenials,Administración de empresas
+2022,Africa,Sociedad,Gen X,Ingeniería computación
+2020,Asia,Futuro,Gen X,Ingeniería ambiental
+2018,América,Salud,Baby boomers,Física
+2014,Chile,Tecnología,Gen X,Astrofísica
+2019,Chile,Tecnología,Gen X,Astrofísica
+2015,Chile,Tecnología,Gen X,Astrofísica
+2016,Chile,S/I,S/I,Robótica
+2017,América,S/I,Gen X,Psicología
+2020,Europa,S/I,Gen silenciosa,Física
+2018,Africa,Naturaleza,Gen silenciosa,Matemáticas
+2018,Europa,Tecnología,Millenials,Geología
+2026,América,S/I,Millenials,Inteligencia Artificial
+2020,Europa,Tecnología,Gen X,Inteligencia Artificial
+2024,Europa,Tecnología,Gen X,Inteligencia Artificial
+2023,Europa,Tecnología,Gen X,Sociología
+2025,Chile,Tecnología,Gen X,Medicina
+2024,América,Tecnología,Gen X,Astronomía
+2026,Europa,Tecnología,Baby boomers,Neurociencia
+2024,Europa,Tecnología,Baby boomers,Neurociencia
+2017,Chile,Naturaleza,Millenials,Estudiante
+2017,América,Energía,Gen X,Futurismo
+2018,América,Humanidad,Gen X,Futurismo
+2016,Europa,Naturaleza,Baby boomers,Biología marina
+2019,Europa,Naturaleza,Baby boomers,Biología marina
+2016,Europa,S/I,Baby boomers,Sostenibilidad
+2022,Europa,Tecnología,Baby boomers,Neurociencia
+2013,Chile,Naturaleza,Baby boomers,Geografía
+2025,Chile,Naturaleza,Baby boomers,Geografía
+2019,Europa,Salud,Baby boomers,Neurociencia
+2020,Chile,Naturaleza,Gen X,Microbiología
+2018,Europa,Tecnología,Baby boomers,Neurociencia
+2016,Europa,Futuro,Gen X,Economía
+2021,Chile,S/I,Gen X,Ciencia Política
+2022,América,Salud,Millenials,Microbiología
+2013,Chile,S/I,Baby boomers,Política
+2016,Chile,S/I,Baby boomers,Política
+2017,Chile,S/I,Baby boomers,Política
+2017,Chile,S/I,Baby boomers,Política
+2013,Chile,Tecnología,Baby boomers,Política
+2014,Chile,Tecnología,Baby boomers,Política
+2018,Chile,S/I,Baby boomers,Política
+2025,América,Tecnología,Millenials,Ciencia de datos
+2016,Europa,Naturaleza,Gen X,Farmacia
+2020,América,Tecnología,Baby boomers,Administración de empresas
+2016,América,Naturaleza,Baby boomers,Urbanismo
+2015,América,Naturaleza,Baby boomers,Urbanismo
+2017,América,Naturaleza,Baby boomers,Urbanismo
+2022,Europa,Cultura,Gen X,Medicina
+2013,Chile,Tecnología,Baby boomers,Matemáticas
+2017,América,Sociedad,Gen X,Medicina
+2018,Europa,Sociedad,Baby boomers,Economía
+2022,Europa,Salud,Gen silenciosa,Medicina
+2024,Chile,Tecnología,Baby boomers,Administración de empresas
+2014,Chile,S/I,Gen X,Agronomía
+2019,América,Humanidad,Baby boomers,Ecología
+2017,Europa,Futuro,Millenials,Ciencia Política
+2021,Europa,Sociedad,Gen X,Sociología
+2025,Europa,Sociedad,Gen X,Sociología
+2025,Europa,Sociedad,Gen X,Sociología
+2024,Chile,Tecnología,Millenials,Ingeniería informática
+2022,Europa,Naturaleza,Gen X,Biología
+2018,Europa,Tecnología,Gen X,Ciencia Política
+2017,Europa,Naturaleza,Gen X,Relaciones internacionales
+2024,América,Tecnología,Baby boomers,Derecho
+2013,Chile,Tecnología,Baby boomers,Ciencia Política
+2014,Chile,S/I,Baby boomers,Economía
+2022,Chile,Sociedad,Baby boomers,Política
+2023,Chile,Tecnología,Millenials,Empresario(a)
+2017,Europa,Humanidad,Gen silenciosa,Geografía
+2022,Asia,Salud,Gen X,Antropología
+2019,Asia,Tecnología,Baby boomers,Robótica
+2017,Asia,Naturaleza,Baby boomers,Ingeniería eléctrica
+2016,Asia,Mente,Baby boomers,Robótica
+2013,Chile,Energía,Baby boomers,Ingeniería eléctrica
+2011,Chile,Sociedad,Gen silenciosa,Filosofía
+2013,Chile,Humanidad,Gen silenciosa,Biología
+2017,Chile,Humanidad,Gen silenciosa,Biología
+2014,Chile,Tecnología,Gen X,Ciencias de los materiales
+2019,Chile,Tecnología,Gen X,Ciencias de los materiales
+2018,Chile,S/I,Millenials,Periodismo
+2021,Europa,Naturaleza,Gen X,Biología marina
+2017,Europa,Comunicación,Baby boomers,Geología
+2024,Chile,Tecnología,Gen X,Física
+2026,Chile,S/I,Millenials,Biomedicina
+2022,Chile,Tecnología,Millenials,Economía
+2016,Chile,Naturaleza,Gen X,Innovación
+2020,Chile,Tecnología,Baby boomers,Ciencias sociales
+2017,Europa,Energía,Baby boomers,Ingeniería eléctrica
+2017,Chile,S/I,Baby boomers,Educación
+2016,Chile,Futuro,Baby boomers,Educación
+2026,Europa,S/I,Gen X,Medicina
+2026,Europa,S/I,Gen X,Medicina
+2026,Europa,S/I,Baby boomers,Transporte
+2023,Chile,Energía,Millenials,Geología
+2017,Chile,Naturaleza,Gen X,Antropología
+2021,Chile,S/I,Millenial,Activismo (ciencia)
+2019,Chile,Tecnología,Baby boomers,Psicología
+2023,América,Humanidad,Gen X,Ciencias de la computación
+2020,Chile,S/I,Baby boomers,Historia
+2013,Chile,Naturaleza,Baby boomers,Física
+2011,Europa,Tecnología,Baby boomers,Matemáticas
+2023,Oceanía,Cultura,Gen X,Inteligencia Artificial
+2021,Europa,Humanidad,Gen X,Ciencias de la computación
+2026,América,Humanidad,Baby boomers,Biología
+2017,América,Humanidad,Baby boomers,Biología
+2018,América,Naturaleza,Gen X,Biología marina
+2014,Chile,Tecnología,Baby boomers,Geología
+2017,Chile,Tecnología,Baby boomers,Ciencias de la computación
+2015,Chile,Energía,Baby boomers,Política
+2013,Chile,Tecnología,Baby boomers,Matemáticas
+2011,Chile,Tecnología,Baby boomers,Matemáticas
+2020,América,Sociedad,Baby boomers,Ciencia Política
+2024,Europa,Tecnología,Gen X,Microbiología
+2014,Chile,Humanidad,Gen X,Ingeniería ambiental
+2022,Europa,Tecnología,Millenials,Ingeniería espacial
+2015,América,Naturaleza,Baby boomers,Ecología
+2018,América,Tecnología,Baby boomers,Ecología
+2021,América,Naturaleza,Gen X,Economía
+2023,América,Tecnología,Gen X,Neurociencia
+2018,América,Salud,Millenials,Medicina
+2021,América,Mente,Gen X,Innovación
+2020,Chile,Futuro,Millenials,Derecho
+2021,Chile,Tecnología,Millenials,Salud Pública
+2013,Europa,Tecnología,Baby boomers,Biología
+2026,Chile,Tecnología,Gen X,Energías renovables
+2023,Chile,S/I,Gen X,Economía
+2026,Chile,S/I,Gen X,Arquitectura
+#N/A,#N/A,S/I,Gen X,Filosofía
+2020,Europa,S/I,Gen X,Gobernanza
+2016,Europa,Futuro,Gen X,Urbanismo
+2026,América,S/I,Baby boomers,Salud Pública
+2022,Europa,Tecnología,Gen X,Ciencias de los ecosistemas
+2023,Europa,Naturaleza,Gen X,Ciencias sociales
+2018,América,Tecnología,Baby boomers,Astrofísica
+2015,América,Tecnología,Baby boomers,Economía
+2011,América,Futuro,Baby boomers,Futurismo
+2013,Europa,Tecnología,Baby boomers,Antropología
+2025,Asia,Tecnología,Gen X,Física teórica
+2017,Europa,Tecnología,Baby boomers,Economía
+2019,Europa,Salud,Baby boomers,Medicina
+2020,América,Tecnología,Baby boomers,Artes visuales
+2024,Chile,Tecnología,Gen Z,Ciencias sociales
+2021,Chile,Salud,Millenials,Física
+2025,América,Tecnología,Gen X,Filosofía
+2023,América,Tecnología,Baby boomers,Bioética
+2020,América,Tecnología,Baby boomers,Divulgación Científica
+2019,Chile,Tecnología,Gen X,Inteligencia Artificial
+2024,Chile,Tecnología,Gen X,Inteligencia Artificial
+2018,América,Tecnología,Gen X,Astronomía
+2020,Europa,Mente,Gen X,Neurociencia
+2017,Europa,Mente,Gen X,Neurociencia
+2015,América,Tecnología,Baby boomers,Ingeniería eléctrica
+2023,América,Tecnología,Baby boomers,Astrofísica
+2016,Europa,Comunicación,Baby boomers,Periodismo
+2017,Europa,S/I,Baby boomers,Periodismo
+2017,Europa,S/I,Baby boomers,Periodismo
+2020,América,Salud,Baby boomers,Bioestadística
+2025,América,Naturaleza,Baby boomers,Biotecnología
+2024,América,Tecnología,Gen X,Ciencias ambientales
+2016,Chile,S/I,Gen silenciosa,Bioquímica
+2014,Chile,S/I,Gen silenciosa,Biología
+2025,Chile,Futuro,Gen X,Arquitectura
+2022,América,Naturaleza,Baby boomers,Arquitectura
+2023,Europa,Naturaleza,Gen X,Geografía
+2021,Chile,S/I,Gen X,Artes visuales
+2014,Chile,Futuro,Baby boomers,Política
+2026,Chile,S/I,Millenials,Salud Pública
+2016,Chile,Tecnología,Gen X,Biotecnología
+2017,Africa,Humanidad,Baby boomers,Relaciones internacionales
+2011,América,Tecnología,Baby boomers,Futurismo
+2025,Chile,S/I,Gen X,Biotecnología
+2015,Chile,Salud,Baby boomers,Bioestadística
+2019,América,Salud,Baby boomers,Agronomía
+2026,Chile,S/I,Gen X,Salud Pública
+2019,Chile,Salud,Gen X,Medicina
+2025,Europa,Humanidad,Gen X,Filosofía
+2026,Europa,Humanidad,Gen X,Filosofía
+2026,Europa,Humanidad,Gen X,Filosofía
+2025,Europa,Humanidad,Gen X,Filosofía
+2016,Chile,S/I,Baby boomers,Astronomía
+2019,Chile,Naturaleza,Baby boomers,Ciencia de los alimentos
+2013,Chile,Naturaleza,Baby boomers,Ciencia de los alimentos
+2023,Chile,Naturaleza,Baby boomers,Ciencia de los alimentos
+2013,Chile,Salud,Gen X,Economía
+2026,Chile,Salud,Gen X,Economía
+2024,Chile,Tecnología,Millenials,Inteligencia Artificial
+2026,Chile,S/I,Gen X,Empresario(a)
+2025,Chile,Energía,Baby boomers,Química
+2023,Chile,Sociedad,Millenials,Economía
+2013,Europa,Tecnología,Baby boomers,Ciencia Política
+2025,Europa,Tecnología,Baby boomers,Ciencia Política
+2026,América,S/I,Baby boomers,Medicina
+2021,América,Salud,Gen silenciosa,Economía
+2016,Europa,Tecnología,Gen X,Ingeniería software
+2026,Chile,S/I,Gen X,Ciencia de los alimentos
+2017,Chile,S/I,Baby boomers,Derecho
+2014,Chile,Naturaleza,Baby boomers,Biología
+2016,Chile,S/I,Baby boomers,Ingeniería química
+2014,Chile,Tecnología,Baby boomers,Ingeniería química
+2013,Chile,Futuro,Baby boomers,Ingeniería química
+2014,Chile,S/I,Baby boomers,Ingeniería química
+2015,Chile,Salud,Baby boomers,Ingeniería química
+2016,Chile,Naturaleza,Gen silenciosa,Biología marina
+2013,Chile,Naturaleza,Gen silenciosa,Biología marina
+2013,Chile,Naturaleza,Gen silenciosa,Biología marina
+2026,Chile,S/I,Baby boomers,Educación
+2024,Chile,Energía,Gen X,Administración pública
+2018,Chile,Tecnología,Baby boomers,Biología
+2024,América,Tecnología,Gen X,Ingeniería eléctrica
+2019,Chile,Tecnología,Baby boomers,Antropología
+2026,Chile,S/I,Gen silenciosa,Sociología
+2015,Chile,Salud,Gen X,Biología molecular
+2025,Europa,Tecnología,Gen X,Ciencias de la comunicación
+2017,Chile,S/I,Baby boomers,Ingeniería eléctrica
+2019,Chile,Sociedad,Gen X,Ingeniería computación
+2024,Chile,Naturaleza,Gen X,Inteligencia Artificial
+2018,América,Salud,Gen silenciosa,Salud Pública
+2023,Chile,Naturaleza,Millenials,Paleontología
+2017,Europa,Sociedad,Baby boomers,Psicología
+2022,Europa,Naturaleza,Millenials,Economía
+2025,Chile,Salud,Millenials,Medicina
+2024,América,Naturaleza,Gen X,Biología
+2018,Europa,Naturaleza,Gen X,Ciencias ambientales
+2026,América,Tecnología,Millenials,Geografía
+2023,América,Tecnología,Millenials,Geografía
+2022,América,Salud,Baby boomers,Sociología
+2021,América,Comunicación,Baby boomers,Astronomía
+2021,Chile,Sociedad,Gen Z,Activismo (ciencia)
+2026,Chile,S/I,Gen X,Microbiología
+2025,Chile,Naturaleza,Gen X,Biología marina
+2025,Chile,Tecnología,Gen X,Economía
+2025,Chile,Futuro,Gen X,Literatura
+2025,Chile,Futuro,Gen X,Literatura
+2016,Asia,S/I,Baby boomers,Activismo (humanidades)
+2026,Chile,S/I,Gen X,Farmacia
+2018,Europa,Sociedad,Baby boomers,Empresario(a)
+2019,América,Salud,Gen X,Microbiología
+2020,Chile,S/I,Millenials,Ingeniería computación
+2017,Asia,Salud,Gen X,Biología
+2021,Asia,Tecnología,Gen X,Ciencias de la información
+2023,Europa,Energía,Baby boomers,Neurociencia
+2021,Asia,Cultura,Gen X,Gobernanza
+2024,América,Tecnología,Gen X,Microbiología
+2024,Oceanía,Tecnología,Gen X,Inteligencia Artificial
+2020,Europa,Tecnología,Gen X,Orador
+2024,Chile,Naturaleza,Millenials,Cine
+2020,América,Tecnología,Millenials,Ciencias de la comunicación
+2025,América,Tecnología,Baby boomers,Psicología
+2018,Chile,Salud,Gen X,Administración pública
+2013,Chile,Naturaleza,Gen X,Biología marina
+2018,América,Tecnología,Millenials,Inteligencia Artificial
+2023,América,Naturaleza,Millenials,Antropología
+2026,Asia,S/I,Baby boomers,Tecnologías de la Información
+2019,Asia,Tecnología,Baby boomers,Arquitectura
+2018,Asia,Naturaleza,Baby boomers,Geología
+2025,América,Salud,Baby boomers,Neurociencia
+2026,América,S/I,Baby boomers,Derecho
+2024,Europa,Tecnología,Gen X,Biología
+2024,América,Tecnología,Gen X,Inteligencia Artificial
+2021,América,Tecnología,Gen silenciosa,Física teórica
+2022,América,Naturaleza,Baby boomers,Climatología
+2026,Chile,S/I,Millenials,Bioquímica
+2020,América,Tecnología,Gen X,Matemáticas
+2023,América,Tecnología,Gen X,Matemáticas
+2020,América,Tecnología,Gen X,Matemáticas
+2024,América,Naturaleza,Millenials,Inteligencia Artificial
+2018,Europa,Humanidad,Baby boomers,Economía
+2019,Chile,Naturaleza,Baby boomers,Climatología
+2022,Chile,Tecnología,Millenials,Astronomía
+2024,Chile,Tecnología,Millenials,Astronomía
+2024,Europa,Tecnología,Baby boomers,Inteligencia Artificial
+2022,Europa,Tecnología,Baby boomers,Inteligencia Artificial
+2025,Europa,Tecnología,Baby boomers,Inteligencia Artificial
+2025,Europa,Tecnología,Baby boomers,Inteligencia Artificial
+2023,Europa,Naturaleza,Gen X,Ingeniería química
+2025,Europa,Sociedad,Millenials,Filosofía
+2025,Europa,Sociedad,Millenials,Filosofía
+2025,Europa,Tecnología,Gen X,Innovación
+2018,Europa,Tecnología,Baby boomers,Oncología
+2018,Chile,Tecnología,Millenials,Sostenibilidad
+2011,Asia,Naturaleza,Baby boomers,Economía
+2024,América,Sociedad,Millenial,Divulgación científica
+2018,Asia,Tecnología,Gen X,Farmacia
+2024,Chile,Tecnología,Gen X,Innovación
+2017,Chile,Tecnología,Gen X,Administración pública
+2018,Chile,Tecnología,Gen X,Empresario(a)
+2025,Europa,Tecnología,Baby boomers,Ingeniería ambiental
+2023,Chile,Tecnología,Baby boomers,Física
+2023,América,Tecnología,Gen X,Lingüística
+2023,Asia,Tecnología,Gen X,Inteligencia Artificial
+2026,América,S/I,Gen X,Educación
+2021,América,S/I,Gen X,Literatura
+2022,Africa,Tecnología,Baby boomers,Ecología
+2025,Africa,Tecnología,Baby boomers,Ecología
+2023,América,Tecnología,Gen X,Divulgación Científica
+2020,América,Tecnología,Gen X,Geología
+2023,Oceanía,Mente,Gen X,Psicología
+2016,Europa,Tecnología,Gen X,Astrofísica
+2020,Europa,Sociedad,Baby boomers,Ciencia Política
+2017,Europa,Naturaleza,Baby boomers,Economía
+2026,Chile,S/I,Millenials,Biología marina
+2017,Europa,Naturaleza,Gen X,Innovación
+2025,Chile,Tecnología,Gen X,Economía
+2021,Chile,Salud,Baby boomers,Genética
+2020,Chile,S/I,Gen X,Sociología
+2022,América,Naturaleza,Millenials,Arquitectura
+2021,América,Tecnología,Gen X,Astrofísica
+2016,América,Salud,Gen X,Química física
+2018,América,Naturaleza,Baby boomers,Divulgación Científica
+2020,Europa,Tecnología,Gen X,Ecología
+2020,Europa,Tecnología,Baby boomers,Economía
+2018,América,Tecnología,Gen X,Ingeniería eléctrica
+2024,Chile,Salud,Gen X,Medicina
+2026,América,S/I,Baby boomers,Paleontología
+2017,América,Tecnología,Baby boomers,Física teórica
+2025,Chile,Sociedad,Millenials,Economía
+2024,Chile,Naturaleza,Millenial,Activismo (ciencia)
+2022,Chile,S/I,Millenials,Periodismo
+2019,Europa,Salud,Gen X,Genética
+2018,Chile,Naturaleza,Gen X,Física
+2020,Chile,Naturaleza,Gen X,Física
+2023,Chile,Naturaleza,Gen X,Física
+2024,Chile,Tecnología,Baby boomers,Sociología
+2016,América,Cultura,Gen X,Ingeniería informática
+2024,Chile,Tecnología,Millenials,Diseño
+2017,Chile,S/I,Gen X,Teatro
+2026,Europa,Naturaleza,Gen X,Ecología
+2024,Chile,Energía,Gen X,Ciencias ambientales
+2024,Chile,Naturaleza,Millenials,Biología marina
+2020,Chile,Tecnología,Gen X,Medicina
+2025,Chile,Tecnología,Gen X,Nanotecnología
+2013,Chile,Tecnología,Gen X,Nanotecnología
+2018,Chile,Naturaleza,Gen X,Ciencias ambientales
+2024,Chile,Naturaleza,Gen X,Paleontología
+2019,Chile,Naturaleza,Gen X,Paleontología
+2024,Chile,Naturaleza,Gen X,Ingeniería ambiental
+2019,Chile,Naturaleza,Gen X,Ingeniería ambiental
+2025,América,Futuro,Baby boomers,Psicología
+2023,Chile,S/I,Gen X,Política
+2016,Chile,S/I,Gen X,Política
+2025,Chile,Salud,Baby boomers,Medicina
+2019,Chile,Tecnología,Gen X,Ingeniería eléctrica
+2019,América,Tecnología,Gen X,Empresario(a)
+2020,América,Sociedad,Gen X,Matemáticas
+2017,Europa,Futuro,Baby boomers,Oceanografía
+2019,Europa,Salud,Baby boomers,Biología celular
+2026,Chile,S/I,Gen X,Ciencia de los alimentos
+2026,Europa,S/I,Gen X,Robótica
+2023,Europa,Naturaleza,Gen X,Antropología
+2022,Chile,Sociedad,Millenials,Epidemiología
+2014,Chile,Salud,Baby boomers,Biotecnología
+2024,América,Comunicación,Gen X,Divulgación Científica
+2018,Chile,Humanidad,Gen X,Sociología
+2020,América,S/I,Gen X,Política
+2024,América,Humanidad,Baby boomers,Política
+2025,Chile,Naturaleza,Millenials,Historia
+2015,Chile,S/I,Baby boomers,Sociología
+2017,América,S/I,Baby boomers,Periodismo
+2023,Chile,Tecnología,Gen X,Inteligencia Artificial
+2026,Chile,S/I,Millenials,Inteligencia Artificial
+2023,América,Tecnología,Gen X,Medicina
+2021,Chile,Humanidad,Gen X,Epidemiología
+2021,Chile,Tecnología,Gen X,Empresario(a)
+2016,Europa,S/I,Baby boomers,Periodismo
+2018,Chile,Tecnología,Baby boomers,Astronomía
+2017,Chile,Tecnología,Baby boomers,Astronomía
+2013,Chile,Tecnología,Baby boomers,Astronomía
+2014,Chile,Tecnología,Baby boomers,Astronomía
+2011,Chile,Tecnología,Baby boomers,Astronomía
+2015,Chile,Tecnología,Baby boomers,Astronomía
+2022,Europa,Naturaleza,Gen X,Economía
+2019,Chile,Tecnología,Baby boomers,Psicología
+2014,Chile,S/I,Gen X,Sociología
+2026,América,S/I,Gen X,Neurociencia
+2024,América,Tecnología,Gen X,Relaciones internacionales
+2026,Europa,S/I,Millenials,Sociología
+2024,Chile,Tecnología,Baby boomers,Antropología
+2024,Europa,Naturaleza,Millenials,Arquitectura
+2023,Europa,Naturaleza,Millenials,Arquitectura
+2022,Europa,S/I,Baby boomers,Música
+2016,Chile,Naturaleza,Baby boomers,Astronomía
+2017,Chile,Naturaleza,Baby boomers,Astronomía
+2017,Chile,Naturaleza,Baby boomers,Astronomía
+2014,Chile,Naturaleza,Baby boomers,Astronomía
+2013,Chile,Naturaleza,Baby boomers,Astronomía
+2020,Chile,Sociedad,Gen silenciosa,Historia
+2017,Chile,Naturaleza,Baby boomers,Geología
+2024,Chile,Sociedad,Gen X,Matemáticas
+2024,Chile,Salud,Gen X,Psiquiatría
+2020,América,Naturaleza,Gen silenciosa,Salud Pública
+2017,Chile,Tecnología,Baby boomers,Ingeniería eléctrica
+2018,Chile,Tecnología,Millenials,Astronomía
+2026,Europa,Naturaleza,Millenials,Geografía
+2023,Europa,Naturaleza,Millenials,Geografía
+2022,Europa,Naturaleza,Baby boomers,Psicología
+2019,Europa,Naturaleza,Gen X,Paleontología
+2018,Europa,Tecnología,Gen X,Filosofía
+2025,Europa,Tecnología,Gen X,Filosofía
+2025,Europa,Tecnología,Gen X,Filosofía
+2014,Chile,Naturaleza,Gen X,Ciencias biomédicas
+2023,Chile,Naturaleza,Gen X,Ciencias biomédicas
+2025,Europa,Naturaleza,Gen X,Biología
+2016,América,Naturaleza,Baby boomers,Astronomía
+2024,Europa,Tecnología,Gen X,Ciencia de datos
+2019,Europa,Tecnología,Gen X,Ciencia de datos
+2020,Chile,S/I,Baby boomers,Filosofía
+2024,Chile,Tecnología,Millenials,Sociología
+2021,América,Tecnología,Baby boomers,Biotecnología
+2016,Chile,S/I,Baby boomers,Biología
+2020,Europa,Naturaleza,Baby boomers,Política
+2018,América,Salud,Baby boomers,Salud Pública
+2020,Europa,Tecnología,Baby boomers,Ingeniería computación
+2025,Europa,Naturaleza,Baby boomers,Biología marina
+2015,Europa,Tecnología,Gen X,Futurismo
+2024,Chile,Tecnología,Millenials,Biotecnología
+2016,Chile,S/I,Gen Z,Robótica
+2024,Chile,Naturaleza,Gen Z,Estudiante
+2026,América,S/I,Baby boomers,Astronomía
+2017,América,Tecnología,Gen X,Astronomía
+2017,América,Salud,Baby boomers,Genética
+2025,Chile,Tecnología,Millenials,Diseño de videojuegos
+2018,Chile,Naturaleza,Gen X,Empresario(a)
+2024,Chile,Tecnología,Gen X,Química
+2011,Chile,S/I,Gen silenciosa,Ingeniería estructural
+2015,América,Tecnología,Gen X,Nanotecnología
+2013,Europa,Tecnología,Baby boomers,Ingeniería química
+2026,Europa,S/I,Baby boomers,Filosofía
+2026,Europa,S/I,Baby boomers,Filosofía
+2017,Europa,Tecnología,Baby boomers,Microbiología
+2023,Chile,S/I,Gen X,Ciencias ambientales
+2015,Chile,Energía,Baby boomers,Economía
+2019,América,Salud,Baby boomers,Genética
+2020,América,Naturaleza,Gen X,Cambio climático
+2019,América,Tecnología,Gen X,Innovación
+2019,Europa,Tecnología,Gen X,Periodismo
+2026,América,S/I,Baby boomers,Astrofísica
+2026,Europa,S/I,Gen X,Bioquímica
+2019,América,Futuro,Gen silenciosa,Física
+2025,América,Tecnología,Gen X,Neurociencia
+2022,América,Sociedad,Baby boomers,Filosofía
+2023,Chile,Tecnología,Gen X,Biotecnología
+2015,Africa,Energía,Baby boomers,Química
+2016,Europa,Futuro,Gen silenciosa,Paleontología
+2019,Europa,Futuro,Gen silenciosa,Paleontología
+2013,Europa,Futuro,Gen silenciosa,Paleontología
+2011,Europa,Futuro,Gen silenciosa,Paleontología
+2015,Europa,Futuro,Gen silenciosa,Paleontología
+2016,Chile,S/I,Baby boomers,Política
+2018,Chile,S/I,Baby boomers,Política
+2017,Chile,S/I,Baby boomers,Política
+2015,Chile,S/I,Baby boomers,Política
+2023,América,Energía,Baby boomers,Física
+2018,América,Energía,Baby boomers,Física
+2024,Europa,Tecnología,Gen X,Ciberseguridad
+2016,América,Tecnología,Baby boomers,Neurociencia
+2017,Europa,Tecnología,Baby boomers,Nanotecnología
+2025,América,Tecnología,Gen X,Futurismo
+2026,Europa,Tecnología,Millenials,Inteligencia Artificial
+2018,Chile,Tecnología,Gen X,Geología
+2024,Asia,Energía,Gen X,Ciencias de la computación
+2018,Chile,Tecnología,Gen X,Sociología
+2018,Chile,Naturaleza,Baby boomers,Biología marina
+2025,Asia,S/I,S/I,S/I
+2018,Europa,Salud,Gen X,Ciencias biomédicas
+2019,América,S/I,Gen X,Activismo (ciencia)
+2025,América,Tecnología,Baby boomers,Inteligencia Artificial
+2026,América,Tecnología,Baby boomers,Inteligencia Artificial
+2019,Europa,Salud,Baby boomers,Farmacia
+2024,Asia,Humanidad,Gen X,Medicina
+2022,Asia,Humanidad,Gen silenciosa,Economía
+2023,Chile,Naturaleza,Gen X,Acuicultura
+2023,Chile,Naturaleza,Millenials,Biotecnología
+2018,Europa,Tecnología,Baby boomers,Robótica
+2022,Asia,Naturaleza,Gen X,Química
+2023,América,Naturaleza,Gen X,Ingeniería espacial
+2021,Chile,S/I,Gen X,Derecho
+2026,Africa,Tecnología,Millenials,Derecho
+2018,Chile,Tecnología,Gen X,Política
+2023,Europa,Tecnología,Gen X,Neurociencia
+2020,Chile,Tecnología,Gen X,Divulgación Científica
+2016,Chile,S/I,Gen X,Biología marina
+2016,Chile,S/I,Gen X,Energías renovables
+2018,Asia,Tecnología,Baby boomers,Activismo (ciencia)
+2020,Europa,S/I,Gen X,Genética
+2025,América,Naturaleza,Gen X,Paleontología
+2022,Europa,Tecnología,Millenials,Economía
+2022,Europa,Tecnología,Gen X,Química
+2021,Chile,Naturaleza,Gen X,Economía
+2024,Chile,Tecnología,Millenials,Periodismo
+2024,Chile,Tecnología,Millenials,Periodismo
+2020,Chile,Tecnología,Millenials,Arquitectura
+2023,Chile,Tecnología,Millenials,Ciencia Política
+2018,Chile,Humanidad,Gen silenciosa,Derecho
+2022,Europa,Tecnología,Gen X,Inteligencia Artificial
+2013,Chile,Futuro,Gen X,Política
+2026,Chile,S/I,Millenials,Periodismo
+2026,Europa,Tecnología,Gen X,Astronomía
+2018,Europa,Sociedad,Baby boomers,Sociología
+2019,América,Tecnología,Baby boomers,Oncología
+2023,América,Naturaleza,Gen silenciosa,Lingüística
+2018,Asia,Tecnología,Baby boomers,Geografía
+2022,Chile,Tecnología,Baby boomers,Educación
+2025,América,Tecnología,Baby boomers,Psiquiatría
+2023,América,Tecnología,Baby boomers,Psiquiatría
+2016,América,S/I,Gen silenciosa,Química
+2026,Europa,S/I,Baby boomers,Matemáticas
+2022,Europa,Tecnología,Gen X,Ciencias de la computación
+2024,América,Tecnología,Gen X,Bioética
+2025,América,Tecnología,Gen X,Economía
+2025,Europa,Tecnología,Baby boomers,Educación
+2018,Chile,Naturaleza,Gen X,Ecología
+2022,Chile,Sociedad,Baby boomers,Literatura
+2026,Europa,Tecnología,Baby boomers,Ciberseguridad
+2022,Europa,Tecnología,Baby boomers,Ciberseguridad
+2024,América,Energía,Baby boomers,Nanotecnología
+2025,Asia,Tecnología,Gen X,Inteligencia Artificial
+2022,América,Salud,Baby boomers,Inmunología
+2026,Chile,S/I,Gen X,Ingeniería ambiental
+2023,América,Tecnología,Gen X,Neurociencia
+2017,Chile,S/I,Baby boomers,Política
+2026,América,S/I,Baby boomers,Ecología
+2014,Chile,Naturaleza,Baby boomers,Oceanografía
+2023,Chile,Naturaleza,Baby boomers,Oceanografía
+2016,Asia,Tecnología,Baby boomers,Robótica
+2025,Chile,Tecnología,Millenials,Empresario(a)
+2021,Chile,Naturaleza,Baby boomers,Ecología
+2021,Chile,Tecnología,Millenials,Economía
+2025,Chile,Naturaleza,Gen X,Ingeniería ambiental
+2019,Chile,Naturaleza,Baby boomers,Ecología
+2016,América,Salud,Gen X,Genética
+2025,América,Tecnología,Gen X,Antropología
+2020,Chile,Sociedad,Gen X,Genética
+2016,Chile,Sociedad,Gen X,Empresario(a)
+2017,Chile,Naturaleza,Gen Z,Estudiante
+2017,Chile,Tecnología,Gen silenciosa,Bioquímica
+2013,Chile,Tecnología,Gen silenciosa,Bioquímica
+2024,Chile,Tecnología,Millenials,Innovación
+2026,Chile,S/I,Gen X,Biología celular
+2026,Chile,S/I,Gen X,Biología celular
+2016,América,Humanidad,Baby boomers,Microbiología
+2025,Chile,Naturaleza,Millenials,Sostenibilidad
+2021,América,Naturaleza,Millenials,Empresario(a)
+2017,Chile,Salud,Gen X,Ciencias biomédicas
+2025,Chile,Tecnología,Gen X,Urbanismo
+2020,América,Sociedad,Millenials,Activismo (humanidades)
+2026,Chile,S/I,Gen X,Transporte
+2018,Europa,Tecnología,Gen X,Ciencia de datos
+2022,Europa,Naturaleza,Gen silenciosa,Economía
+2023,Europa,Naturaleza,Gen silenciosa,Economía
+2021,América,Mente,Gen silenciosa,Filosofía
+2026,Chile,S/I,Gen X,Transporte
+2019,Chile,Tecnología,Baby boomers,Antropología
+2020,Chile,Tecnología,Baby boomers,Antropología
+2024,Chile,Energía,Millenials,Inteligencia Artificial
+2022,Chile,Sociedad,Gen X,Derecho
+2015,Chile,Naturaleza,Baby boomers,Oceanografía
+2025,Chile,Naturaleza,Gen X,Desastres naturales
+2022,Chile,Sociedad,Gen X,Periodismo
+2011,Chile,Tecnología,Baby boomers,Política
+2023,Chile,Energía,Gen X,Energías renovables
+2016,Chile,S/I,Gen X,Política
+2026,Chile,S/I,Gen X,Derecho
+2025,América,Tecnología,Baby boomers,Astronomía
+2016,Europa,Mente,Baby boomers,Astronomía
+2015,Europa,Mente,Baby boomers,Astronomía
+2018,Europa,Mente,Baby boomers,Astronomía
+2017,Europa,Mente,Baby boomers,Astronomía
+2013,Europa,Mente,Baby boomers,Astronomía
+2011,Europa,Mente,Baby boomers,Astronomía
+2021,Chile,S/I,Gen X,Psiquiatría
+2020,Chile,Cultura,Millenials,Literatura
+2020,Chile,Tecnología,Millenials,Astronomía
+2020,Chile,Sociedad,Gen X,Periodismo
+2025,Chile,Naturaleza,Gen X,Cambio climático
+2024,Chile,Tecnología,Millenials,Astrofísica
+2018,Chile,Tecnología,Gen X,Arquitectura
+2015,Chile,Sociedad,Gen X,Periodismo
+2011,Chile,Tecnología,Baby boomers,Neurociencia
+2013,Chile,Tecnología,Baby boomers,Neurociencia
+2026,Chile,S/I,Gen X,Empresario(a)
+2021,Europa,Tecnología,Gen X,Psicología
+2020,Chile,Humanidad,Gen X,Innovación
+2017,América,Tecnología,Baby boomers,Astronomía
+2018,Oceanía,Humanidad,Baby boomers,Ciencias biomédicas
+2013,América,Energía,Gen silenciosa,Química
+2016,América,Salud,Gen X,Bioquímica
+2024,Oceanía,Tecnología,Baby boomers,Filosofía
+2017,Europa,Tecnología,Gen X,Matemáticas
+2021,Europa,Sociedad,Gen X,Sostenibilidad
+2024,Oceanía,S/I,Baby boomers,Economía
+2017,Europa,Tecnología,Gen silenciosa,Química
+2013,Europa,Tecnología,Baby boomers,Física
+2023,Chile,Salud,Baby boomers,Genética
+2020,Chile,Naturaleza,Gen X,Derecho
+2026,Chile,S/I,Gen X,Medicina
+2026,Europa,S/I,Gen X,Innovación
+2019,Europa; Asia,Tecnología,Millenials,Ciencias de la computación
+2025,Chile,Tecnología,Millenials,Biomedicina
+2022,Asia,Naturaleza,Gen X,Energías renovables
+2024,Asia,Tecnología,Millenials,Inteligencia Artificial
+2017,Asia,S/I,Gen X,Biología
+2026,Asia,S/I,Baby boomers,Agricultura
+2026,Asia,Tecnología,Gen X,Ciencias de la computación
+2019,América,Naturaleza,Baby boomers,Ciencia de los alimentos
+2021,América,Tecnología,Gen X,Ciencia Política
+2016,Africa,S/I,Baby boomers,Innovación
+2025,América,Naturaleza,Baby boomers,Climatología
+2022,Europa,Tecnología,Baby boomers,Gobernanza
+2013,Chile,S/I,Baby boomers,Biología molecular
+2022,Europa,Humanidad,Baby boomers,Neurociencia
+2016,Europa,Humanidad,Baby boomers,Neurociencia
+2024,Europa,Humanidad,Baby boomers,Neurociencia
+2017,Europa,Humanidad,Baby boomers,Neurociencia
+2020,Europa,Humanidad,Baby boomers,Neurociencia
+2019,Europa,Humanidad,Baby boomers,Neurociencia
+2023,Europa,Humanidad,Baby boomers,Neurociencia
+2026,América,S/I,Gen X,Economía
+2025,Europa,Tecnología,Baby boomers,Inteligencia Artificial
+2025,Europa,Tecnología,Baby boomers,Inteligencia Artificial
+2016,América,S/I,Baby boomers,Genética
+2024,Europa,Tecnología,Baby boomers,Inteligencia Artificial
+2026,Europa,Tecnología,Baby boomers,Inteligencia Artificial
+2023,Europa,Tecnología,Millenials,Filosofía
+2022,Europa,Sociedad,Millenial,Sociología
+2025,América,Naturaleza,Baby boomers,Economía
+2026,Asia,Salud,Baby boomers,Ciencia de los alimentos
+2023,América,Salud,Baby boomers,Ciencia de los alimentos
+2023,Chile,Energía,Gen X,Cambio climático
+2015,Chile,Tecnología,Baby boomers,Literatura
+2023,América,Tecnología,Gen X,Ingeniería espacial
+2025,América,Salud,Baby boomers,Microbiología
+2021,Europa,S/I,Baby boomers,Astrofísica
+2019,América,Tecnología,Millenials,Derecho
+2026,Europa,Sociedad,Baby boomers,Filosofía
+2026,Europa,Sociedad,Baby boomers,Filosofía
+2025,Europa,Sociedad,Baby boomers,Sociología
+2025,Europa,Sociedad,Baby boomers,Sociología
+2014,Chile,Naturaleza,Baby boomers,Biología marina
+2011,Europa,Naturaleza,Gen silenciosa,Economía
+2017,Asia,Salud,Millenials,Salud Pública
+2013,Chile,Tecnología,Baby boomers,Geología
+2018,América,Cultura,Gen silenciosa,Sociología
+2017,Chile,Tecnología,Gen X,Ciencias biomédicas
+2024,Chile,Tecnología,Baby boomers,Ciencias de la computación
+2016,Europa,Tecnología,Baby boomers,Ciencias de la computación
+2017,Chile,Naturaleza,Millenials,Astronomía
+2015,Chile,Tecnología,Gen silenciosa,Política
+2013,Chile,Tecnología,Gen silenciosa,Política
+2017,Chile,S/I,Baby boomers,Política
+2025,Chile,Energía,Millenials,Empresario(a)
+2021,Chile,Cultura,Baby boomers,Ecología
+2014,Chile,Cultura,Baby boomers,Ecología
+2014,Chile,Cultura,Baby boomers,Ecología
+2014,Chile,S/I,Baby boomers,Economía
+2016,Chile,Salud,Baby boomers,Medicina
+2015,Chile,Salud,Baby boomers,Medicina
+2017,Chile,Salud,Baby boomers,Medicina
+2013,Chile,Salud,Baby boomers,Medicina
+2016,América,S/I,Gen X,Innovación
+2026,Europa,S/I,Millenials,Nanotecnología
+2014,América,S/I,Baby boomers,Medicina
+2019,Europa,Cultura,Gen silenciosa,Zoología
+2019,Europa,Cultura,Gen silenciosa,Zoología
+2015,América,Naturaleza,Baby boomers,Paleontología
+2017,América,Naturaleza,Baby boomers,Paleontología
+2018,América,Tecnología,Gen X,Periodismo
+2016,Europa,Sociedad,Gen silenciosa,Epidemiología
+2026,Europa,Tecnología,Baby boomers,Economía
+2022,América,Tecnología,Baby boomers,Gobernanza
+2019,Asia,Salud,Gen X,Inteligencia Artificial
+2023,Asia,Salud,Gen X,Inteligencia Artificial
+2019,Oceanía,Salud,Gen X,Microbiología
+2025,Oceanía,Salud,Gen X,Microbiología
+2020,Oceanía,Salud,Gen X,Microbiología
+2023,América,Tecnología,Gen X,Innovación
+2019,América,Tecnología,Baby boomers,Matemáticas
+2014,Chile,Futuro,Baby boomers,Política
+2017,Europa,Cultura,Baby boomers,Ciencias de la computación
+2021,Chile,Salud,Gen X,Psicología
+2024,Chile,Tecnología,Gen X,Derecho
+2025,Chile,Salud,Millenials,Psicología
+2024,Chile,Humanidad,Millenial,Sociología
+2022,Chile,Sociedad,Gen X,Política
+2024,América,Humanidad,Gen X,Tecnologías de la Información
+2024,América,Humanidad,Gen X,Política
+2016,Chile,Energía,Gen X,Energías renovables
+2017,Chile,Energía,Gen X,Energías renovables
+2014,Chile,Energía,Gen X,Energías renovables
+2018,Chile,Energía,Millenial,Ingeniería eléctrica
+2018,Asia,Tecnología,Gen X,Nanotecnología
+2024,América,Tecnología,Millenials,Neurociencia
+2015,Chile,Tecnología,Gen X,Neurociencia
+2019,América,Salud,Gen X,Veterinaria
+2018,Chile,S/I,Baby boomers,Física
+2017,América,Tecnología,Gen X,Economía
+2019,Asia,Sociedad,Gen X,Arquitectura
+2024,América,Naturaleza,Gen X,Economía
+2024,Chile,Naturaleza,Gen X,Acuicultura
+2026,Europa,S/I,Baby boomers,Gobernanza
+2023,América,Naturaleza,Millenials,Educación
+2022,Europa,Salud,Baby boomers,Biología
+2019,América,Naturaleza,Millenials,Ecología
+2017,Europa,Tecnología,Baby boomers,Sociología
+2023,Asia,Energía,Millenials,Energías renovables
+2018,Europa,Tecnología,Gen silenciosa,Activismo (humanidades)
+2016,América,Salud,Baby boomers,Oncología
+2016,América,S/I,Gen X,Psicología
+2018,Chile,Tecnología,Millenials,Psicología
+2026,América,S/I,Gen X,Neurociencia
+2018,Chile,S/I,Baby boomers,Política
+2015,Chile,Tecnología,Baby boomers,Política
+2011,Chile,Tecnología,Baby boomers,Política
+2014,Chile,Tecnología,Baby boomers,Política
+2020,Chile,Naturaleza,Gen X,Periodismo
+2022,Europa,Mente,Gen X,Neurociencia
+2025,Europa,Tecnología,Baby boomers,Física cuántica
+2024,Chile,Futuro,Baby boomers,Urbanismo
+2015,Chile,Tecnología,Gen silenciosa,Política
+2024,América,S/I,Gen X,Gobernanza
+2014,Chile,Tecnología,Gen X,Antropología
+2017,Chile,S/I,Baby boomers,Política
+2026,Chile,Naturaleza,Baby boomers,Zoología
+2022,Chile,Tecnología,Baby boomers,Filosofía
+2017,América,Naturaleza,Baby boomers,Empresario(a)
+2026,América,S/I,Gen X,Ingeniería ambiental
+2022,Oceanía,Naturaleza,Baby boomers,Cambio climático
+2022,Asia,Tecnología,Baby boomers,Tecnologías de la Información
+2014,Oceanía,Tecnología,Millenials,Geografía
+2026,Asia,S/I,Gen X,Filosofía
+2026,Asia,S/I,Gen X,Filosofía
+2011,Asia,Tecnología,Baby boomers,Ingeniería informática
+2023,América,Tecnología,Baby boomers,Sociología
+2018,América,Sociedad,Millenial,Biología molecular
+2025,América,Energía,Gen X,Empresario(a)
+2017,América,Tecnología,Baby boomers,Arquitectura
+2019,América,Tecnología,Gen X,Neurociencia
+2017,América,S/I,Baby boomers,Política
+2026,Chile,Tecnología,Millenials,Farmacia
+2016,Europa,Mente,Baby boomers,Neurociencia
+2016,Europa,S/I,Baby boomers,Medicina
+2016,Europa,Tecnología,Baby boomers,Medicina
+2017,Europa,Humanidad,Baby boomers,Astrofísica
+2017,Europa,Humanidad,Baby boomers,Astrofísica
+2020,Chile,Humanidad,Gen X,Nutrición
+2024,América,Humanidad,Millenials,Matemáticas
+2018,América,Naturaleza,Millenials,Periodismo
+2018,Asia,Naturaleza,Gen X,Activismo (humanidades)
+2023,Europa,S/I,Gen X,Biología marina
+2024,Europa,Tecnología,Gen X,Neurociencia
+2026,Europa,Tecnología,Gen X,Neurociencia
+2022,América,Tecnología,Gen silenciosa,Química
+2014,Chile,Sociedad,Gen X,Ecología
+2022,Europa,Energía,Gen X,Física
+2018,Europa,Tecnología,Gen X,Ecología
+2016,Europa,Tecnología,Gen X,Ecología
+2018,Europa,Tecnología,Gen X,Ecología
+2017,Europa,Tecnología,Gen X,Ecología
+2017,Europa,Tecnología,Gen X,Ecología
+2021,Europa,Humanidad,Gen silenciosa,Economía
+2024,América,Tecnología,Gen X,Epidemiología
+2017,América,Tecnología,Baby boomers,Relaciones internacionales
+2015,América,Tecnología,Gen X,Futurismo
+2026,América,S/I,Gen X,Genética
+2016,América,Naturaleza,Baby boomers,Física
+2018,Asia,Tecnología,Baby boomers,Física
+2018,Chile,Tecnología,Gen X,Ciencias biomédicas
+2019,América,S/I,Baby boomers,Psicología
+2019,América,Tecnología,Gen silenciosa,Activismo (humanidades)
+2020,Chile,Mente,Gen X,Economía
+2026,Chile,Naturaleza,Millenials,Oceanografía
+2014,Asia,Mente,Gen silenciosa,Biología molecular
+2018,América,Naturaleza,Gen silenciosa,Biología marina
+2023,América,Naturaleza,Gen silenciosa,Biología marina
+2021,Asia,S/I,Gen X,Filosofía
+2026,Asia,S/I,Gen X,Desastres naturales
+2022,Asia,Tecnología,Millenials,Ciencia de datos
+2026,Chile,S/I,Millenials,Psicología
+2024,Chile,Salud,Millenials,Psicología
+2017,Europa,Tecnología,Gen X,Economía
+2023,América,Tecnología,Gen X,Inteligencia Artificial
+2022,Africa,Salud,Gen X,Salud Pública
+2018,Oceanía,Tecnología,Gen X,Matemáticas
+2022,Chile,Tecnología,Gen Z,Astronomía
+2021,Chile,Tecnología,Baby boomers,Sociología
+2018,América,Sociedad,Baby boomers,Empresario(a)
+2020,América,Naturaleza,Gen X,Derecho
+2025,Europa,Salud,Gen X,Genética
+2016,Europa,Tecnología,Baby boomers,Astrofísica
+2015,Europa,Tecnología,Gen X,Economía
+2019,América,Tecnología,Baby boomers,Administración pública
+2025,Europa,Naturaleza,Baby boomers,Empresario(a)
+2026,Europa,S/I,Baby boomers,Antropología
+2018,Europa,Naturaleza,Baby boomers,Economía
+2023,Europa,Energía,Gen X,Ciencias ambientales
+2022,América,Tecnología,Millenials,Ciencia de datos
+2025,América,Naturaleza,Gen X,Neurociencia
+2020,Oceanía,Naturaleza,Gen X,Climatología
+2019,Europa,Tecnología,Gen X,Activismo (humanidades)
+2022,Europa,Humanidad,Gen X,Filosofía
+2014,América,Tecnología,Gen silenciosa,Biología molecular
+2026,Chile,S/I,Gen X,Medicina
+2025,Chile,Tecnología,Millenials,Periodismo
+2020,Chile,Tecnología,Gen X,Biotecnología
+2024,Chile,Tecnología,Millenials,Teatro
+2014,América,S/I,Gen silenciosa,Neurociencia
+2017,Asia,Tecnología,Baby boomers,Diseño de videojuegos
+2019,América,Salud,Gen X,Antropología
+2023,Chile,Tecnología,Gen Z,Divulgación Científica
+2025,Europa,Tecnología,Gen X,Neurociencia
+2018,América,Humanidad,Millenials,Empresario(a)
+2019,Asia,Tecnología,Baby boomers,Sostenibilidad
+2020,América,Tecnología,Gen X,Inteligencia Artificial
+2022,Europa,Sociedad,Millenials,Filosofía
+2024,Chile,Tecnología,Gen X,Psiquiatría
+2016,América,Naturaleza,Baby boomers,Cambio climático
+2025,América,Salud,Baby boomers,Medicina
+2021,América,Salud,Baby boomers,Medicina
+2017,Chile,Naturaleza,Gen X,Biotecnología
+2023,América,Naturaleza,Gen X,Salud Pública
+2014,Chile,S/I,Baby boomers,Política
+2024,América,Tecnología,Gen X,Química
+2026,América,S/I,Baby boomers,Bioquímica
+2018,Chile,Humanidad,Gen X,Biología celular
+2022,Chile,Tecnología,Gen silenciosa,Sociología
+2020,América,S/I,Gen X,Arquitectura
+2022,América,Salud,Gen X,Salud Pública
+2016,Chile,S/I,Baby boomers,Antropología
+2021,América,Tecnología,Gen X,Neurociencia
+2018,Chile,Naturaleza,Gen X,Biología marina
+2015,Europa,Sociedad,Baby boomers,Política
+2020,América,Tecnología,Gen X,Tecnologías de la Información
+2022,Europa,Tecnología,Gen silenciosa,Cine
+2023,Europa,Tecnología,Gen silenciosa,Cine
+2013,América,Naturaleza,Gen silenciosa,Biología
+2026,Europa,S/I,Millenials,Filosofía
+2023,América,Naturaleza,Millenials,Ciencias de los ecosistemas
+2021,América,Naturaleza,Baby boomers,Arquitectura
+2025,Chile,Tecnología,Gen X,Tecnologías de la Información
+2023,Asia,Naturaleza,Gen X,Ciencias ambientales
+2025,América,Naturaleza,Baby boomers,Artes visuales
+2015,Europa,Salud,Millenials,Empresario(a)
+2024,Chile,Tecnología,Baby boomers,Periodismo
+2026,Chile,S/I,Gen X,Psicología
+2020,Chile,Tecnología,Gen X,Activismo (ciencia)
+2021,América,Salud,Gen X,Salud Pública
+2018,Europa,Naturaleza,Gen X,Ciencias de los ecosistemas
+2026,Asia,S/I,Gen X,Química
+2019,Europa,Tecnología,Gen X,Sociología
+2020,Europa,Sociedad,Millenials,Relaciones internacionales
+2025,Asia,Tecnología,Baby boomers,Filosofía
+2023,América,Naturaleza,Millenials,Química
+2019,Asia,Futuro,Gen X,Biotecnología
+2023,Europa,Futuro,Gen X,Microbiología
+2023,Europa,S/I,Millenials,Oceanografía
+2011,Asia,Humanidad,Gen silenciosa,Química
+2021,Asia,Humanidad,Millenials,Empresario(a)
+2011,Asia,Tecnología,Baby boomers,Innovación
+2025,Asia,Tecnología,Gen X,Energías renovables
+2025,Asia,Tecnología,Millenials,Filosofía
+2025,Asia,Tecnología,Millenials,Filosofía
+2016,Asia,Tecnología,Gen X,Historia
+2026,Europa,Tecnología,Baby boomers,Biología
+2023,Europa,Tecnología,Baby boomers,Biología
+2025,América,Tecnología,Gen X,Ciencia de datos
+2021,Chile,Naturaleza,Baby boomers,Filosofía
+2018,América,Futuro,Gen X,Futurismo
+2026,América,S/I,Gen X,Futurismo
