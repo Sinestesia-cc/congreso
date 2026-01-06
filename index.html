@@ -101,33 +101,65 @@
       font-size: 11px;
     }
 
-    /* Estilos para títulos de columnas con glow detrás */
-    .column-label {
-      filter: drop-shadow(0 0 0px rgba(245, 86, 168, 0));
-      transition: filter 0.5s ease;
+    /* Estilos para títulos de columnas con glow usando elipses concéntricas */
+    .column-label-group {
+      opacity: 1;
     }
 
-    .column-label.glow-active {
-      filter: drop-shadow(0 0 10px rgba(245, 86, 168, 0.9)) 
-              drop-shadow(0 0 20px rgba(245, 86, 168, 0.7))
-              drop-shadow(0 0 30px rgba(245, 86, 168, 0.5))
-              drop-shadow(0 0 40px rgba(245, 86, 168, 0.3));
-      animation: pulseGlow 2s ease-in-out infinite;
+    /* Cuando el glow está activo, mostrar las capas de elipses */
+    .column-label-group.glow-active .glow-layer-0 {
+      fill-opacity: 0.6 !important;
+      filter: blur(3px);
+      animation: pulseGlowLayer0 2s ease-in-out infinite;
+    }
+    
+    .column-label-group.glow-active .glow-layer-1 {
+      fill-opacity: 0.4 !important;
+      filter: blur(5px);
+      animation: pulseGlowLayer1 2s ease-in-out infinite;
+    }
+    
+    .column-label-group.glow-active .glow-layer-2 {
+      fill-opacity: 0.3 !important;
+      filter: blur(8px);
+      animation: pulseGlowLayer2 2s ease-in-out infinite;
+    }
+    
+    .column-label-group.glow-active .glow-layer-3 {
+      fill-opacity: 0.2 !important;
+      filter: blur(12px);
+      animation: pulseGlowLayer3 2s ease-in-out infinite;
+    }
+    
+    .column-label-group.glow-active .glow-layer-4 {
+      fill-opacity: 0.1 !important;
+      filter: blur(18px);
+      animation: pulseGlowLayer4 2s ease-in-out infinite;
     }
 
-    @keyframes pulseGlow {
-      0%, 100% {
-        filter: drop-shadow(0 0 10px rgba(245, 86, 168, 0.9)) 
-                drop-shadow(0 0 20px rgba(245, 86, 168, 0.7))
-                drop-shadow(0 0 30px rgba(245, 86, 168, 0.5))
-                drop-shadow(0 0 40px rgba(245, 86, 168, 0.3));
-      }
-      50% {
-        filter: drop-shadow(0 0 15px rgba(245, 86, 168, 1)) 
-                drop-shadow(0 0 25px rgba(245, 86, 168, 0.9))
-                drop-shadow(0 0 40px rgba(245, 86, 168, 0.7))
-                drop-shadow(0 0 55px rgba(245, 86, 168, 0.5));
-      }
+    @keyframes pulseGlowLayer0 {
+      0%, 100% { fill-opacity: 0.6; }
+      50% { fill-opacity: 0.8; }
+    }
+    
+    @keyframes pulseGlowLayer1 {
+      0%, 100% { fill-opacity: 0.4; }
+      50% { fill-opacity: 0.6; }
+    }
+    
+    @keyframes pulseGlowLayer2 {
+      0%, 100% { fill-opacity: 0.3; }
+      50% { fill-opacity: 0.5; }
+    }
+    
+    @keyframes pulseGlowLayer3 {
+      0%, 100% { fill-opacity: 0.2; }
+      50% { fill-opacity: 0.4; }
+    }
+    
+    @keyframes pulseGlowLayer4 {
+      0%, 100% { fill-opacity: 0.1; }
+      50% { fill-opacity: 0.3; }
     }
 
     /* El glow siempre debe estar visible (no hay texto) */
