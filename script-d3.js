@@ -1050,7 +1050,7 @@ function drawSankey(year) {
   svg.selectAll(".text-backgrounds").remove();
   svg.selectAll(".node-texts").remove();
   svg.selectAll(".debug-text").remove();
-  svg.selectAll(".column-label").classed("glow-active", false);
+  svg.selectAll(".column-label-group").classed("glow-active", false);
   
   svg.select(".title")
     .text(`Congreso ${year}`)
@@ -1251,8 +1251,8 @@ function drawSankey(year) {
       };
     }
   
-  // Limpiar títulos anteriores (el glow se removerá automáticamente al remover los elementos)
-  svg.selectAll(".column-label").remove();
+  // Limpiar títulos anteriores
+  svg.selectAll(".column-label-group").remove();
   
   const columnLabels = [
     {x: COLUMNS.continent, text: "CONTINENTES", type: "continent"},
@@ -1269,31 +1269,80 @@ function drawSankey(year) {
     };
   });
   
-  svg.selectAll(".column-label")
+  // Crear elementos para el glow usando gradiente radial SVG (más profesional)
+  // Primero crear los gradientes radiales en el defs
+  const defs = svg.append("defs");
+  
+  titleConfigs.forEach((d, i) => {
+    const gradientId = `glow-gradient-${d.type}`;
+    const gradient = defs.append("radialGradient")
+      .attr("id", gradientId)
+      .attr("cx", "50%")
+      .attr("cy", "50%")
+      .attr("r", "50%");
+    
+    gradient.append("stop")
+      .attr("offset", "0%")
+      .attr("stop-color", "#F556A8")
+      .attr("stop-opacity", 0);
+    
+    gradient.append("stop")
+      .attr("offset", "30%")
+      .attr("stop-color", "#F556A8")
+      .attr("stop-opacity", 0.3);
+    
+    gradient.append("stop")
+      .attr("offset", "60%")
+      .attr("stop-color", "#F556A8")
+      .attr("stop-opacity", 0.1);
+    
+    gradient.append("stop")
+      .attr("offset", "100%")
+      .attr("stop-color", "#F556A8")
+      .attr("stop-opacity", 0);
+  });
+  
+  // Crear grupos para cada título
+  const labelGroup = svg.selectAll(".column-label-group")
     .data(titleConfigs)
     .enter()
-    .append("text")
-    .attr("class", d => `column-label column-label-${d.type}`)
+    .append("g")
+    .attr("class", d => `column-label-group column-label-${d.type}`);
+  
+  // Crear múltiples elipses concéntricas para un glow suave y profesional
+  const glowLayers = [1, 1.5, 2, 2.5, 3]; // Múltiples capas para suavidad
+  const glowOpacities = [0.6, 0.4, 0.3, 0.2, 0.1]; // Opacidades decrecientes
+  
+  glowLayers.forEach((scale, layerIndex) => {
+    labelGroup.append("ellipse")
+      .attr("class", `glow-layer-${layerIndex}`)
+      .attr("cx", d => d.x + (d.config.offsetX || 0))
+      .attr("cy", d => height - d.config.offsetY)
+      .attr("rx", d => (d.text.length * d.config.fontSize * 0.3) * scale)
+      .attr("ry", d => (d.config.fontSize * 0.6) * scale)
+      .style("fill", "#F556A8")
+      .style("fill-opacity", 0) // Inicialmente invisible
+      .style("stroke", "none");
+  });
+  
+  // Texto completamente invisible (solo para mantener la estructura)
+  labelGroup.append("text")
+    .attr("class", "label-text")
     .attr("x", d => d.x + (d.config.offsetX || 0))
-    .attr("y", d => {
-      // Posición desde la parte inferior del área de dibujo
-      // Como el SVG está transformado con translate(margin.left, margin.top),
-      // la posición Y es relativa a ese grupo
-      // height - offsetY coloca el texto offsetY píxeles desde el borde inferior
-      return height - d.config.offsetY;
-    })
+    .attr("y", d => height - d.config.offsetY)
     .attr("text-anchor", "middle")
     .style("font-size", d => d.config.fontSize + "px")
     .style("font-weight", d => d.config.fontWeight)
-    .style("fill", "#000000") // Color negro
+    .style("fill", "#F556A8")
     .style("font-family", d => {
       const fontFamily = d.config.fontFamily === "inherit" 
         ? CONFIG.fontFamily 
         : d.config.fontFamily;
       return fontFamily;
     })
-    .text("") // Sin texto, solo el glow
-    .style("fill-opacity", 0); // Texto siempre invisible
+    .text(d => d.text)
+    .style("fill-opacity", 0) // Texto completamente invisible
+    .style("opacity", 1);
   
   // Activar glow después de que se dibujen los elementos y cuando empiecen las líneas
   // Esperar un momento para asegurar que los elementos estén en el DOM
@@ -1311,9 +1360,25 @@ function drawSankey(year) {
     glowOrder.forEach((item, index) => {
       const delay = index * CONFIG.animations.glowAppearDelay;
       setTimeout(() => {
+        // Aplicar glow al grupo completo (que contiene las elipses)
         const titleElement = svg.select(`.column-label-${item.type}`);
         if (!titleElement.empty() && titleElement.node()) {
           titleElement.classed("glow-active", true);
+          
+          // Animar las capas de elipses con delays escalonados para efecto suave
+          [0, 1, 2, 3, 4].forEach((layerIndex, layerDelay) => {
+            setTimeout(() => {
+              titleElement.selectAll(`.glow-layer-${layerIndex}`)
+                .transition()
+                .duration(500)
+                .ease(d3.easeCubicOut)
+                .style("fill-opacity", () => {
+                  const opacities = [0.6, 0.4, 0.3, 0.2, 0.1];
+                  return opacities[layerIndex];
+                });
+            }, layerDelay * 50); // Pequeño delay entre capas
+          });
+          
           console.log(`Glow activado para ${item.type} (columna ${item.column}) con delay ${delay}ms`);
         } else {
           console.warn(`No se encontró elemento para ${item.type}`);
@@ -1372,7 +1437,7 @@ document.addEventListener("DOMContentLoaded", () => {
     let glowActive = true;
     toggleGlowButton.addEventListener("click", () => {
       glowActive = !glowActive;
-      d3.selectAll(".column-label").classed("glow-active", glowActive);
+      d3.selectAll(".column-label-group").classed("glow-active", glowActive);
       toggleGlowButton.textContent = glowActive ? "✨ Apagar Glow" : "✨ Encender Glow";
     });
   }
